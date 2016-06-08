@@ -1,4 +1,4 @@
-方正教务-自动评教系统
+﻿方正教务-自动评教系统
 =================
 
 **本脚本基于python3**
@@ -8,6 +8,11 @@
 ```
 $ pip install requests beautifulsoup4  
 ```
+修改ip:
+```
+修改run.py中的base_url的值为你们学校内网的IP即可
+```
+
 运行:
 ```
 $ python run.py
