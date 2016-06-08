@@ -10,7 +10,7 @@ $ pip install requests beautifulsoup4
 ```
 运行:
 ```
-(venv)$ python run.py
+$ python run.py
 ```
 
 ## Preview:
